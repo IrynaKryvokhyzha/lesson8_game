@@ -1,0 +1,76 @@
+
+.game {
+	height: 600px;
+	width: 600px;
+	margin: 0 auto;
+	border-radius: 40px;	
+	background-color: #F08080;
+	font-size: 40px;
+	font-weight: 900;
+	text-align: center;
+	text-transform: uppercase;
+	box-shadow: 5px 5px 20px 5px #CD5C5C;
+	margin-top: 50px;
+}
+.start {
+	font-size: 40px;
+	font-weight: 900;
+	text-transform: uppercase;
+	max-width: 150px;
+	margin: 0 auto;
+	background-color: #FFA07A;
+	border-radius: 40px;	
+}
+.start:hover{
+	color: #DC143C ;
+}
+.line1 {
+	width: 50px;
+	height: 150px;
+	margin: -30px 0 0 270px;	
+}
+.line1:hover{
+	background-color: #FFA07A;
+}
+.line2 {
+	width: 260px;
+	height: 20px;
+	margin: -20px 0px 0px 50px;
+}
+.line2:hover{
+	background-color: #FFA07A;
+}
+.line3 {
+	margin: -20px 0 0 50px;
+	width: 15px;
+	height: 120px;
+	
+}
+.line3:hover{
+	background-color: #FFA07A;
+}
+.line4 {
+	width: 400px;
+	height: 15px;
+	margin: -15px 0 0 50px;	
+}
+.line4:hover{
+	background-color: #FFA07A;
+}
+.line5 {
+	margin: -15px 0 0 430px;
+	width: 20px;
+	height: 100px;
+}
+.line5:hover{
+	background-color: #FFA07A;
+}
+.finish {	
+	margin: -10px 0 0 360px;
+	color:  #F08080;
+	max-width: 150px;
+}
+.finish:hover{
+	background-color: #FFA07A;
+	color: black;
+}
